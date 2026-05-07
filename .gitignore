@@ -1,0 +1,7 @@
+*.pdb
+*.cache
+*.cache.pdb
+Settings.xml
+bin/
+obj/
+*.user

@@ -1,0 +1,11 @@
+{
+  "Id": "EscDoublePress",
+  "DisplayName": "Esc Double Press Exit",
+  "Author": "ADOFAI Mod Creator",
+  "Version": "1.0.0",
+  "AssemblyName": "EscDoublePress.dll",
+  "EntryMethod": "EscDoublePress.Main.Load",
+  "Description": "Requires double-pressing Esc in gameplay and editor playtest. Supports English, Chinese, and Korean UI.",
+  "ManagerVersion": "0.22.14",
+  "HomePage": "https://github.com/HHS3188/EscDoublePress"
+}
